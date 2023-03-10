@@ -1,0 +1,38 @@
+body {
+  color:RED;
+  font-family: arial;
+}
+h1 {
+  color: blue;
+  font-size: 5em
+}
+h2 {
+  font-size: 2.5em
+}
+img {
+  padding: 20px;
+  border-radius: 130px;
+  margin-left:20px;
+}
+ol {
+  list-style:none;
+  padding: 0;
+  margin-bottom: 10%
+  font-size: 3em;
+}
+#top{
+  background-color: green;
+  color: white;
+  font-size: 36px;
+}
+#middle{
+background-color: black;
+color: white;
+font-size: 36px;
+}
+#bottom{
+  background-color: blueviolet;
+  color: white;
+  font-size: 36px;
+}
+h2:
